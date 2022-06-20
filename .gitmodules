@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pasadr"]
+	path = pasadr
+	url = https://github.com/ainsuotain/pasadr
+	shallow = true
+	registered = true
