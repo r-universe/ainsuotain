@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "kfda"]
 	path = kfda
 	url = https://github.com/cran/kfda
-	shallow = true
-	registered = true
 [submodule "matrixProfile"]
 	path = matrixProfile
 	url = https://github.com/cran/matrixProfile
-	shallow = true
-	registered = true
 [submodule "pasadr"]
 	path = pasadr
 	url = https://github.com/ainsuotain/pasadr
-	shallow = true
-	registered = true
